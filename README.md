@@ -17,3 +17,12 @@ Este repositório é dedicado ao meu aprendizado em Python. Até agora, concluí
   - Introdução à lógica de programação.
   - Fundamentos da linguagem Python: variáveis, tipos de dados, estruturas lógicas.
   - Funções e como utilizá-las em Python.
+
+### 3. Desenvolvimento Orientado a Objetos Utilizando a Linguagem Python
+- **Objetivo**: Explorar conceitos avançados de orientação a objetos em Python.
+- **Tópicos Abordados**:
+  - Instalação do ambiente de desenvolvimento (PyCharm).
+  - Conceitos de Orientação a Objetos aplicados em Python.
+  - Encapsulamento de Dados.
+  - Manipulação de Strings em Python.
+
