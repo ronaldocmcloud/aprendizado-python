@@ -26,3 +26,11 @@ Este repositório é dedicado ao meu aprendizado em Python. Até agora, concluí
   - Encapsulamento de Dados.
   - Manipulação de Strings em Python.
 
+### 4. Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python
+- **Objetivo**: Desenvolver aplicações com interface gráfica utilizando Python e a biblioteca Kivy.
+- **Tópicos Abordados**:
+  - O mundo das aplicações e sua importância.
+  - Conceitos de Orientação a Objetos aplicados à criação de interfaces gráficas.
+  - Desenvolvimento de aplicações gráficas com a biblioteca Kivy.
+
+
