@@ -30,3 +30,21 @@
 - Facilidade no trabalho em equipe.
 - Estabilidade e reusabilidade do código.
 
+# Anotações do Curso: Criando um Projeto com Interface Gráfica Utilizando a Linguagem Python
+
+## O Mundo das Aplicações
+- Aplicações móveis e desktop têm grande importância no cotidiano.
+- Exemplos: redes sociais, jogos, aplicativos de desktop, sites.
+
+## Orientação a Objetos na Construção de Aplicações
+- A importância de usar a orientação a objetos para construir aplicações mais robustas.
+- A criação de interfaces gráficas facilita a interação com os usuários.
+
+## Kivy
+- Biblioteca para a criação de interfaces gráficas em Python.
+- Permite o desenvolvimento de aplicações tanto para desktop quanto para dispositivos móveis.
+
+## Criando Aplicações Gráficas
+- Como usar o Kivy para desenvolver aplicações gráficas interativas.
+- Exploração de classes e métodos do Kivy para personalizar e interagir com a interface.
+
