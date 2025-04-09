@@ -48,3 +48,22 @@
 - Como usar o Kivy para desenvolver aplicações gráficas interativas.
 - Exploração de classes e métodos do Kivy para personalizar e interagir com a interface.
 
+# Anotações do Curso: Desenvolvendo um Projeto Completo Python com Estruturas de Dados
+
+## Ambiente de Desenvolvimento
+- Utilização do SQLite Studio como ferramenta gráfica para banco de dados.
+- Integração entre Python e bancos de dados relacionais.
+
+## Estruturas de Dados
+- Conceito e importância de estruturas como listas, tuplas, dicionários e conjuntos.
+- Uso dessas estruturas para organizar e manipular dados em projetos Python.
+
+## SQL
+- Introdução à linguagem de consulta estruturada (SQL).
+- Criação e manipulação de tabelas com **queries** (consultas).
+- Conceito de **modelo Entidade-Relacionamento** (ER) na modelagem de dados.
+
+## Python e SQLite
+- Importação de bancos de dados para o SQLite Studio.
+- Criação de tabelas e inserção de dados usando SQL.
+- Acesso e manipulação de dados do banco diretamente através do Python.
